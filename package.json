@@ -1,0 +1,17 @@
+{
+  "name": "vitePress-blog",
+  "version": "1.0.0",
+  "description": "vitePress-blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev blogs",
+    "build": "vitepress build blogs",
+    "serve": "vitepress serve blogs"
+  },
+  "keywords": [],
+  "author": "GreenYuan",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.38"
+  }
+}
